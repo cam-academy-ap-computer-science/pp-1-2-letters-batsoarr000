@@ -1,0 +1,22 @@
+Graded 9/23 by Mark Congdon
+
+Total Score:		23/25
+
+Compiles and Runs:	15/15
+Correct Output:		4/6
+Consistent Style:	2/2
+Efficiency:			2/2
+
+Good work!  Your program is very clean and well-organized.
+
+You did not have blank lines between the letters,
+so I took off one point for that.
+
+You'll also notice that you forgot an end-line in your
+Aunt letter, so the last line is up next to your previous
+line with no space.  I took off one additional point for that.
+
+For future projects, you will want to start adding comments.
+Everybody does comments slightly differently, but at a minimum
+it would have been good to have a comment for the methods that
+were letters and the methods that were shared paragraphs.
